@@ -1,0 +1,11 @@
+.title {
+    border: 5px black;
+    margin: 50px auto;
+    font-size: xxx-large;
+    font-family: "JetBrains Mono ExtraBold", serif;
+    background-color: gold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 400px;
+}
