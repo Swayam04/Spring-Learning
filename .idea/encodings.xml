@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Bean Scopes/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Bean Scopes/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Learning-Spring-Context/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Learning-Spring-Context/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Learning-Wiring-And-DI/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Learning-Wiring-And-DI/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-AOP/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-AOP/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-Beans-And-Abstraction/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-Beans-And-Abstraction/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-Boot-Basics/src/main/java" charset="UTF-8" />
+  </component>
+</project>
